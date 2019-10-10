@@ -1,4 +1,4 @@
-package com.nick.orders;
+package java.com.nick.orders;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
